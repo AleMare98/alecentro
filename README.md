@@ -1,3 +1,13 @@
+Part of my Codex projects
+
+# Screenshots
+
+<img width="1896" height="913" alt="admin_portal1" src="https://github.com/user-attachments/assets/0a9bb144-15cd-424a-8b4b-9bc845e1b201" />
+<img width="1919" height="883" alt="admin_portal2" src="https://github.com/user-attachments/assets/006ccb1f-4e97-4ef4-a363-1c2e37e5ca72" />
+<img width="1080" height="2424" alt="mobileapp2" src="https://github.com/user-attachments/assets/85e3534d-faa7-4606-b7b1-bcb0d912b7b4" />
+<img width="1080" height="2424" alt="mobileapp1" src="https://github.com/user-attachments/assets/56178004-abdf-4de9-b80c-b1c2c0c6e122" />
+
+
 # Centro Diurno Intelligente
 
 English version
